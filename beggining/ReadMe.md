@@ -2,7 +2,7 @@
 
 This code is a simple Hello world code just to start my personal portfolio as a Software Engineer.
 
-This code prints a single line of code that prints "Hello World". This is a very basic code, and is usually the first sentence all programmers first learn when they are introduce to coding.  
+This code prints a single line of code that says "Hello World". This is a very basic code, and is usually the first sentence all programmers first learn when they are introduce to coding.  
 
 on my links below, I've attached the frist person who wrote said sentence story behind it.
 
